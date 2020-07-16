@@ -1,2 +1,2 @@
 hello
-![Resume](/public/Resume_2A.jpg)
+![Resume](Resume_2A.jpg)
